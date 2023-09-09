@@ -22,6 +22,7 @@ public class Solid{
         //so , interface ko itne choote choote parts me baato ki , to client to unnessary function implement na krna pade
     }
     public void D(){
-        //
+        //use interface instead of concrete class
+        //so, do not use concrete class
     }
 }
